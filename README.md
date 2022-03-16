@@ -36,9 +36,6 @@ Conclusions of the case have been provided in the Powerpoint pdf.
 - LibreOffice - version 7.2.3
 
 
-## Acknowledgements
-Thanks to UpGrad Team and Tutors of IIITB for the guidance all the way through.
-
 
 ## Contact
 Created by [@santokhsdg] - feel free to contact me!
